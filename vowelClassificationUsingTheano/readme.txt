@@ -1,3 +1,4 @@
+Created by Tauseef on 8 Sep, 2016.
 This directory contains the following :
 -classifier.py : python code that implements a simple Neural Network using Theano for classification task
 -python_speech_features-master : directory that contains python code to extract MFCC features from wav files. Wav recordings of vowel "a" and "e" spoken by 
